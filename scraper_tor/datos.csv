@@ -1,0 +1,288 @@
+coste,edicion,frecuencia,fuerza,habilidad,nombre,raza,tipo
+2,Furia Implacable,Cortesano,3,"Furia (Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante).Cuando dos o más Aliados con Furia que controles sean declarados atacantes, Sube el Aliado objetivo en juego a la mano de su dueño",Némesis,Sombra,Aliado
+4,Furia Implacable,Cortesano,4,"Furia (Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante).Cuando este Aliado entra en juego, si pagaste su coste, puedes Destruir un Oro que controles u otro Aliado con Furia que controles para Destruir hasta dos Aliados objetivo.",Campe,Dragón,Aliado
+2,Furia Implacable,Cortesano,3,"Furia (Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante).Cuando este Aliado entra en juego, si hay tres o más Oros en tu Zona de Oro Pagado, Destruye el Aliado objetivo.",Dragón de Colchis,Dragón,Aliado
+4,Furia Implacable,Cortesano,6,Furia (Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante).Los demás Aliados con Furia que controles ganan 1 a la Fuerza.,Tritón,Bestia,Aliado
+2,Furia Implacable,Vasallo,3,"Furia (Este Aliado no necesita pasar por una Fase de Agrupación para ser declarado atacante).Cuando este u otro Aliado con Furia que controles sea Destruido por un efecto oponente o Aliado oponente, puedes Robar una carta.",Hippokampoi,Bestia,Aliado
+3,Furia,Real,3,"Mientras este Aliado este en juego, los Aliados oponentes pierden 1 a la Fuerza.",Aphofis,Bestia,Aliado
+2,Furia,Real,2,"Mientras este Aliado esté en juego, tus demás aliados de Raza Bestia tienen Furia. (Pueden atacar cuando entran al juego)",Cíclope,Bestia,Aliado
+2,Furia,Real,3,Puedes destruir este Aliado para que un Aliado oponente tenga 0 a la Fuerza hasta la Fase Final.,Cancerbero,Bestia,Aliado
+3,Furia,Real,2,"Cuando este Aliado entra en juego, puedes elegir un Aliado oponente para que no pueda atacar ni bloquear mientras Medusa esté en juego.",Medusa,Bestia,Aliado
+3,Furia,Real,3,"Cuando este Aliado entra en juego, puedes Desterrar un Tótem oponente en juego.",Dragón de Magma,Bestia,Aliado
+3,Furia,Real,3,"Cuando este Aliado entra en juego, tu oponente Bota 3 cartas de su Mazo Castillo.",Ramsés II,Guerrero,Aliado
+3,Furia,Real,3,"En tu Fase de Vigilia, una vez por turno, puedes Descartar 1 carta de tu Mano para reducir en 1 el coste del próximo Tótem que juegues este turno.",Gran Visir,Guerrero,Aliado
+3,Furia,Real,2,Este Aliado gana 1 a la Fuerza por cada Aliado de Raza Guerrero que tengas en juego.,Leónidas,Guerrero,Aliado
+4,Furia,Real,3,"En tu Fase de Vigilia, una vez por turno, puedes Robar 1 carta de tu Mazo Castillo.",Espartaco,Guerrero,Aliado
+2,Furia,Real,2,"Una vez por turno, puedes Descartar 2 cartas de tu mano para que un Aliado gane 3 a la Fuerza hasta la Fase Final.",Teseo,Guerrero,Aliado
+3,Furia,Real,3,"Mientras este Aliado esté en juego, todos tus demás Aliados de Raza Guerrero ganan 1 a la Fuerza.",Aquiles,Guerrero,Aliado
+2,Furia,Real,2,Puedes Desterrar este Aliado para Anular un Talismán oponente.,Helios,Eterno,Aliado
+3,Furia,Real,3,"En tu Fase de Vigilia, puedes jugar este Aliado desde tu cementerio pagando su coste.",Poseidón,Eterno,Aliado
+2,Furia,Real,2,"En tu Fase de Vigilia, puedes Desterrar este Aliado para buscar una carta Oro sin habilidad en tu Mazo Castillo y ponerla en juego en tu zona de Oro Pagado.",Ptha,Eterno,Aliado
+3,Furia,Real,2,"Cuando este Aliado entra en juego, puedes subir un Aliado oponente a la mano de su dueño.",Atenea,Eterno,Aliado
+4,Furia,Real,4,"Cuando este Aliado entra en juego, puedes elegir un Tótem oponente y ponerlo en tu Línea de Apoyo.Si este Aliado sale del juego, el Tótem vuelve a la Línea de Apoyo oponente.",Cronos,Eterno,Aliado
+4,Furia,Real,4,"Cuando este Aliado entra en juego, puedes buscar un Aliado de Raza Eterno en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.",Odín,Eterno,Aliado
+4,Furia,Real,3,"Cuando este Aliado entra en juego, puedes buscar un Aliado de Raza Caballero en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu mano.",Caballero Negro,Caballero,Aliado
+3,Furia,Real,2,"Cuando este Aliado entra en juego, puedes robar 2 cartas de tu Mazo Castillo.",Tristán,Caballero,Aliado
+5,Furia,Real,3,"Cuando este Aliado entra en juego, puedes buscar un Arma en tu Mazo Castillo y jugarla sin pagar su coste.",Bediver,Caballero,Aliado
+2,Furia,Real,2,Este Aliado no tiene limite de Armas.Gana 1 a la Fuerza por cada Arma que tengas en juego.,Lancelot,Caballero,Aliado
+4,Furia,Real,4,Imbloqueable.,Lamorak,Caballero,Aliado
+2,Furia,Real,2,"Mientras este Aliado este en juego, todos tus demas Aliados de Raza Caballero ganan 1 a la Fuerza.",Uther Pendragón,Caballero,Aliado
+5,Furia,Ultra Real,7,"Única. Furia. Cuando este Aliado entra en juego, Destruye todos los demás Aliados en juego.En tu Fase Final Destierra este Aliado.",Devastador,Bestia,Aliado
+5,Furia,Ultra Real,4,"Única. (Sólo puedes tener una copia de ésta carta en tu Mazo Castillo).En tu Fase de Vigilia, sólo una vez por turno, puedes buscar la carta """" en tu Cementerio o Mazo Castillo y jugarla en este Aliado sin pagar su coste.Mientras este Aliado esté en juego, tus Aliados de Raza Guerrero ganan 1 a la Fuerza.",Thor,Guerrero,Aliado
+5,Furia,Ultra Real,3,Única.,Zeus,Eterno,Aliado
+4,Producto Especial Sariel,Promocional,4,"Única. Ilusión.Cuando este Aliado entra en juego, si todos los Aliados que controlas son Faerie y/o Eterno, tu oponente muestra su mano y Descarta todos los Aliados de ahí. Luego, Por cada Aliado Descartado de esta manera puedes Robar una carta.Una vez por turno, puedes Barajar otro Aliado que controles para Anular un Aliado.",Sariel,Eterno,Aliado
+2,Furia,Cortesano,2,"Cuando este Aliado entra en juego, puedes buscar en tu Cementerio un Aliado de Raza Bestia de coste 1, muéstralo a tu oponente y ponlo en tu Mano.",Banshee,Bestia,Aliado
+5,Furia,Ultra Real,4,"Única.Mientras este Aliado esté en juego, todos tus demás Aliados son Imbloqueables.Mientras este Aliado esté en juego, tus Aliados de Raza Caballero ganan 2 a la Fuerza.",Arturo de Camelot,Caballero,Aliado
+4,Furia,Cortesano,4,Puedes Destruir este Aliado para Destruir un Tótem.,Kraken,Bestia,Aliado
+1,Furia,Cortesano,3,"Furia. En la Fase Final, Destruye este Aliado.",Dragón de Arena,Bestia,Aliado
+3,Furia,Cortesano,3,"Cuando este Aliado entra en juego, elige un Aliado oponente, ese Aliado tiene Fuerza 0 hasta la Fase Final.",Apis,Bestia,Aliado
+4,Furia,Cortesano,4,"Cuando este Aliado entra en juego, tu oponente destruye una de sus Armas.",Grendel,Bestia,Aliado
+2,Furia,Cortesano,2,"Cuando este Aliado entra en juego, puedes buscar la carta """" en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu mano.",Esfinge del Sur,Bestia,Aliado
+1,Furia,Cortesano,1,"Cuando este Aliado entra en juego, puedes buscar la carta """" en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu mano.",Esfinge del Norte,Bestia,Aliado
+3,Furia,Cortesano,3,"Cuando este Aliado entra en juego, elige 2 cartas de tu Cementerio y barájalas en tu Mazo Castillo.",Erick el Rojo,Guerrero,Aliado
+1,Furia,Cortesano,2,"Una vez por turno, puedes Descartar 2 cartas de tu Mano para que este Aliado gane 2 a la Fuerza hasta la Fase Final.",Erick Hacha Sangrienta,Guerrero,Aliado
+4,Furia,Cortesano,3,"Cuando este Aliado entra en juego, puedes buscar un Tótem en tu Cementerio, muéstralo a tu oponente y ponlo en tu Mano.",Halfdan,Guerrero,Aliado
+3,Furia,Cortesano,3,"Cuando este Aliado entra en juego, tu oponente bota 2 cartas de su Mazo Castillo.",Beowulf,Guerrero,Aliado
+2,Furia,Cortesano,2,"En Guerra de Talismanes, puedes descartar 1 carta de tu mano para que este Aliado sea Indestructible hasta la fase final.",Sigfried,Guerrero,Aliado
+3,Furia,Cortesano,3,Puedes destruir este Aliado para que uno de tus Aliados gane 3 a la Fuerza hasta la Fase Final.,Tropa de Choque,Guerrero,Aliado
+3,Furia,Cortesano,2,"Cuando este Aliado entra en juego, puedes jugar un Aliado de raza Eterno de coste 2 o menos desde tu Cementerio sin pagar su coste.",Hera,Eterno,Aliado
+2,Furia,Cortesano,2,"Cuando este Aliado entra en juego, puedes buscar la carta  en tu Mazo Castillo o Cementerio, muéstrala a tu oponente y ponla en tu mano.",Hela,Eterno,Aliado
+2,Furia,Cortesano,2,"Cuando este Aliado entra en juego, puedes buscar un Oro sin habilidad en tu Cementerio, muéstralo a tu oponente y ponlo en tu Mano.",Heimdall,Eterno,Aliado
+3,Furia,Cortesano,2,Puedes desterrar este Aliado para Anular un Tótem.,Vali,Eterno,Aliado
+3,Furia,Cortesano,3,"Cuando este Aliado entra en juego, puedes Barajar un Arma en juego.",Loki,Eterno,Aliado
+3,Furia,Cortesano,3,"Cuando este Aliado entra en juego, puedes buscar un Oro sin habilidad en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu Mano.",Ull,Eterno,Aliado
+2,Furia,Cortesano,1,"En tu Fase de Vigilia, puedes Destruir este Aliado para generar 2 Oros para jugar Armas, hasta la fase Final.",Campesino,Caballero,Aliado
+3,Furia,Cortesano,2,"Cuando este Aliado entra en juego, puedes Destruir un Aliado de Raza Bestia oponente de coste 2 o menos.",Cazador,Caballero,Aliado
+1,Furia,Cortesano,1,"Cuando este Aliado entra en juego, puedes buscar la carta  en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu Mano.",Señor Feudal,Caballero,Aliado
+3,Furia,Cortesano,2,"Cuando este Aliado entra en juego, puedes buscar un Arma en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu Mano.",Escudero,Caballero,Aliado
+1,Furia,Cortesano,2,"Una vez por turno, puedes pagar 1 Oro para que este Aliado sea Imbloqueable hasta la Fase Final.",Monje,Caballero,Aliado
+2,Furia,Cortesano,2,"Si este Aliado ataca con dos o mas Aliados de Raza Caballero, gana 2 a la Fuerza hasta la Fase Final.",Infantería,Caballero,Aliado
+4,Producto Especial Júpiter,Promocional,4,"Única.Cuando este Aliado entra en juego, puedes ganar el control de un Aliado o Tótem objetivo.Los Aliados que controles de los que no seas dueño se consideran Eterno.En tu Fase de Vigilia, una vez por turno, puedes Destruir otro Aliado que controles para ganar el control de un Aliado objetivo.Cuando este Aliado sea Destruido, puedes Destruir un Aliado o Tótem objetivo.",Júpiter,Eterno,Aliado
+1,Mazo Caballero,Cortesano,2,"Cuando entra en juego, si sólo controlas Caballeros, puedes buscar en tu Castillo un Arma y ponerla en tu mano.",Galahad el Puro,Caballero,Aliado
+3,Furia,Vasallo,3,"Cuando este Aliado entra en juego, puedes buscar un Aliado de Raza Bestia de coste 2 en tu Cementerio, muéstralo a tu oponente y ponlo en tu Mano.",Leviatán,Bestia,Aliado
+3,Furia,Vasallo,3,Este Aliado puede bloquear Aliados Imbloqueables.,Sirena,Bestia,Aliado
+2,Furia,Vasallo,2,Cuando este Aliado es declarado atacante elige un Aliado oponente para que pierda 1 a la fuerza hasta la fase final.,Centauro,Bestia,Aliado
+1,Furia,Vasallo,1,"Cuando este Aliado entra en juego, puedes buscar una copia de esta carta en tu Mazo Castillo, juégala sin pagar su coste.",Escarabajo de las Arenas,Bestia,Aliado
+4,Furia,Vasallo,2,"Cuando este Aliado entre en juego, puedes Destruir un Aliado oponente de coste 1.",Escorpión Gigante,Bestia,Aliado
+2,Furia,Vasallo,4,"Para que este Aliado pueda ser declarado atacante o defensor, debes descartar una carta de tu Mano.",Mercenario,Guerrero,Aliado
+2,Furia,Vasallo,4,Este Aliado no puede atacar.,Thot,Eterno,Aliado
+2,Furia,Vasallo,2,"Cuando este Aliado entra en juego, puedes Robar 1 carta de tu Mazo Castillo.",Vigía,Guerrero,Aliado
+3,Furia,Vasallo,1,Indestructible.,Guerrero Hoplita,Guerrero,Aliado
+1,Furia,Vasallo,2,Puedes Destruir este Aliado para que tu oponente Bote 1 carta de su Mazo Castillo.,Jomsvikingos,Guerrero,Aliado
+2,Furia,Vasallo,2,"Cuando este Aliado entra en juego, tu oponente debe Botar 1 carta de su Mazo Castillo.",Guerrero Hicso,Guerrero,Aliado
+3,Furia,Vasallo,1,Este Aliado gana 1 a la Fuerza por cada Tótem que tengas en juego.,Gladiador,Guerrero,Aliado
+2,Furia,Vasallo,2,"En Guerra de Talismanes, una vez por turno, si es el único Aliado declarado Atacante, gana 2 a la Fuerza hasta la Fase Final.",Amosis I,Guerrero,Aliado
+3,Furia,Vasallo,2,"Cuando este Aliado entra en juego, puedes buscar un Oro sin habilidad en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu Mano.",Nut,Eterno,Aliado
+1,Furia,Vasallo,1,"En tu Fase de Vigilia, puedes jugar este Aliado desde tu Cementerio pagando su coste.",Hadas,Eterno,Aliado
+2,Furia,Vasallo,2,"Cuando este Aliado entra en juego, puedes buscar un Aliado de Raza Eterno en tu Cementerio, muéstralo a tu oponente y barájalo en tu Mazo Castillo.",Bastet,Eterno,Aliado
+2,Furia,Vasallo,2,"Cuando este Aliado entra en juego, puedes buscarla carta  en tu Mazo Castillo, muéstralo a tu oponente y ponlo en tu Mano.",Tyr,Eterno,Aliado
+2,Furia,Vasallo,2,Este Aliado gana 1 a la Fuerza por cada carta  que tengas en juego.,Oberón,Eterno,Aliado
+1,Furia,Vasallo,1,"Si este Aliado es declarado atacante, gana 2 a la Fuerza hasta la Fase Final.",Kay,Caballero,Aliado
+2,Furia,Vasallo,2,Este Aliado puede portar 2 Armas.,Boores,Caballero,Aliado
+3,Furia,Vasallo,3,"Cuando este Aliado entre en juego, puedes buscar una carta en tu Cementerio, muéstrala a tu oponente y barájala en tu Mazo Castillo.",Galahad,Caballero,Aliado
+3,Furia,Vasallo,3,"Cuando este Aliado entra en juego,todos tus demás Aliados de raza Eterno ganan 1 a la Fuerza hasta la fase final.",Ares,Eterno,Aliado
+3,Furia,Vasallo,2,"Cuando este Aliado salga del juego, puedes buscar un Arma en tu Mazo Castillo, muéstrala a tu oponente y ponla en tu Mano.",Rey Negro,Caballero,Aliado
+2,Furia,Vasallo,2,Furia.,Gawain,Caballero,Aliado
+1,Furia,Vasallo,1,Imbloqueable.,Caballero Verde,Caballero,Aliado
+2,Furia,Vasallo,2,"Furia.Si este Aliado ataca junto a otro ""Caballero Templario"", gana 1 a la fuerza hasta la Fase Final.",Caballero Templario,Caballero,Aliado
+3,Set Retro,Promocional,3,"Única.Cuando este Aliado entra en juego, puedes elegir un Aliado oponente y ponerlo en tu Línea de Defensa.Si Haquika sale del juego, el Aliado vuelve a la Línea de Defensa oponente.",Haquika,Eterno,Aliado
+3,Pack América,Cortesano,3,"Cuando este Aliado entra en juego, puedes Desterrar el Tótem oponente objetivo en juego.",Dragón de Magma,Dragón,Aliado
+2,Pack América,Cortesano,3,"En tu Fase de Vigilia, una vez por turno, si controlas cuatro o más Oros, puedes Barajar hasta dos cartas de tu Cementerio y Robar dos cartas.",Cristalino Amarillo,Dragón,Aliado
+6,Set Retro,Promocional,6,"Única. Furia.Cuando este u otro Aliado de Raza Dragón entre en juego bajo tu control, cada jugador Bota tres cartas.En tu Fase de Vigilia, una vez por turno, si hay seis o más Aliados en tu Cementerio, puedes elegir un Aliado de Raza Dragón de tu Cementerio y jugarlo sin pagar su coste.",Quetzalcoatl,Dragón,Aliado
+2,Set Retro,Promocional,2,Puedes Desterrar este Aliado para Anular un Talismán oponente.,Helios,Eterno,Aliado
+4,Set Retro,Promocional,4,"Única.Cuando este Aliado entra en juego, puedes Barajar una carta en juego que no sea Oro y todas sus demás copias en juego.Mientras este Aliado esté en juego, si todos los Aliados que controlas son de Raza Héroe, los Aliados oponentes pierden 3 a la fuerza.",Thor el Poderoso,Héroe,Aliado
+2,Set Retro,Promocional,3,"Inmunidad. - Talismanes.En tu Fase de Vigilia, una vez por turno, puedes Generar dos Oros para jugar cartas de coste 5 o más.Cuando pagues el coste de una carta de coste 4 o más, puedes Destruir un Aliado objetivo. Luego, Roba una carta.",Serpiente Roja,Dragón,Aliado
+4,Set Retro,Promocional,4,"Única. Luz. Indesterrable.Si controlas tres o más Tótem, este Aliado no puede ser Anulado. Cuando este Aliado entra en juego, Baraja todos los Tótems oponentes y todos los demás Aliados en juego.Una vez por turno, puedes elegir otro Tótem objetivo en juego o en tu Cementerio y activar una de sus habilidades.",Inti,Eterno,Aliado
+2,Dragones Inmortales,Mega Real,3,"Furia.Cuando entra en juego, puedes buscar en tu Castillo hasta dos Dragones de distinto nombre y ponerlos en tu Cementerio.En tu Vigilia, si dos o más Dragones entraron bajo tu control este turno, puedes buscar un Talismán de coste 2 o más en tu Castillo y ponerlo en tu mano.",Dragón Galés,Dragón,Aliado
+2,Poder Ancestral,Cortesano,2,"Cuando entra en juego, puedes mostrar un Ancestral de tu mano para Barajar la carta objetivo en juego de coste 2 o menos, que no sea Oro.",Eolo,Ancestral,Aliado
+2,Poder Ancestral,Cortesano,2,"Cuando entra en juego, mira las primeras cuatro cartas de tu Castillo. Elige un Ancestral o un Talismán de coste 2 o menos de ahí, ponlo en tu mano y Baraja el resto.",Pan,Ancestral,Aliado
+1,Poder Ancestral,Cortesano,1,"Cuando entra en juego, Roba una carta.Una vez por turno, cuando otro Ancestral que controles fuera a salir del juego, puedes Desterrar una carta de tu mano para prevenirlo.",Prometeo,Ancestral,Aliado
+3,Poder Ancestral,Cortesano,3,"Cuando entra en juego, cada jugador Descarta una carta de su mano. Si Descartas un Ancestral de esta manera, Sube esa carta a tu mano y Roba una carta.",Eos,Ancestral,Aliado
+2,Poder Ancestral,Cortesano,2,"Cuando entra en juego, puedes buscar un Tótem de coste 2 o menos en tu Castillo y jugarlo sin pagar su coste.",Tlaloc,Ancestral,Aliado
+2,Poder Ancestral,Real,3,"Cuando entra en juego, puedes jugar una carta de coste 2 o menos de tu mano que no sea Aliado, sin pagar su coste.Una vez por turno, puedes Destruir otro Ancestral que controles para buscar una carta en tu Castillo de coste 2 o menos que, no sea Aliado y ponerla en tu mano.",Huitzilopochtli,Ancestral,Aliado
+4,Furia,Vasallo,4,Este Aliado solo puede Atacar.,Gigante de Hielo,Bestia,Aliado
+1,Cuentos de Ultratumba,Vasallo,1,"Oscuridad. Exhumar.En tu Vigilia, puedes Desterrar dos Zombi de tu Cementerio y/o mano para que el oponente objetivo Descarte una carta o para Robar una carta.",Zombi Desatado,Sombra,Aliado
+1,Cuentos de Ultratumba,Vasallo,3,Oscuridad. Furia.Puedes pagar un Oro y Desterrar este Aliado de tu Cementerio para Desterrar un Arma o Tótem objetivo en juego.,Arañas de Leng,Bestia,Aliado
+3,Legado Gótico,Ultra Real,4,"Errante. Oscuridad.Cuando este Aliado entra en juego y al comienzo de tu Fase de Vigilia, si todos los Aliados que controlas son de Raza Ancestral, puedes jugar la carta objetivo de coste 3 o menos del Cementerio oponente sin pagar su coste. Si es un Talismán, Destiérralo.Al comienzo de tu Fase Final, puedes Robar una carta por cada carta que hayas jugado este turno que no sea Aliado.",Lilith,Ancestral,Aliado
+2,Cuentos de Ultratumba,Vasallo,2,"Oscuridad. Furia.Cuando entra en juego, Roba dos cartas. Luego, Descarta dos cartas, un Aliado Oscuridad o Bestia.",Hukka,Bestia,Aliado
+1,Cuentos de Ultratumba,Vasallo,1,Oscuridad. Exhumar. Mercenario.Este Aliado gana 1 de Fuerza por cada Aliado Zombi en juego y en las Zonas de Destierro.,Zombi,Sombra,Aliado
+1,Cuentos de Ultratumba,Cortesano,3,"Oscuridad. Furia.Cuando entra en juego, busca en tu Castillo o Cementerio un Aliado  y ponlo en tu mano.Cuando sea Desterrado desde tu Castillo, busca en un Castillo oponente hasta dos cartas y Destiérralas.",Pentagruel,Bestia,Aliado
+1,Cuentos de Ultratumba,Cortesano,1,"Oscuridad. Furia.Puedes Desterrar un Aliado Oscuridad o Bestia de tu Cementerio para Robar una carta. Luego, pon un contador de Alimento en este Aliado.",Wilbur Whateley,Bestia,Aliado
+2,Cuentos de Ultratumba,Cortesano,3,"Oscuridad. Furia.Cuando entra en juego, puedes jugar un Aliado Oscuridad o Bestia de tu Cementerio de coste 2 o menos, que no sea Katthveli, sin pagar su coste.",Katthveli,Bestia,Aliado
+1,Cuentos de Ultratumba,Cortesano,2,"Oscuridad.Cuando entra en juego, si sólo controlas Aliados Oscuridad y/o Sombra, puedes jugar un Talismán de coste 2 o menos del Destierro oponente. Pon ese Talismán en el Cementerio de su dueño.",Vampiro Gitano,Sombra,Aliado
+1,Cuentos de Ultratumba,Cortesano,1,"Oscuridad.En tu Fase de Vigilia, si hay tres o más cartas en el Destierro oponente, puedes Subir el Aliado Oscuridad o Sombra objetivo de tu Cementerio a tu mano.",Roger Bolingbroke,Sombra,Aliado
+2,Cuentos de Ultratumba,Cortesano,3,"Oscuridad. Exhumar.Puedes Destruir otro Aliado que controles para generar un Oro.Si sólo controlas Aliados Oscuridad y/o Sombra, puedes pagar un Oro para buscar en un Castillo una carta y Desterrarla.",Rhan-Tegoth,Sombra,Aliado
+2,Cuentos de Ultratumba,Real,0,"Oscuridad. Exhumar.En tu Vigilia, si sólo controlas Aliados Oscuridad, puedes ganar el control del Aliado objetivo.Gana 1 de Fuerza por cada carta Oscuridad en juego.",Dis,Sombra,Aliado
+4,Cuentos de Ultratumba,Real,6,"Oscuridad. Indesterrable.Destruye dos o más Ancestrales que controles cuyos costes sumen 4 o más para jugarlo sin pagar su coste desde tu mano o Cementerio.Al comienzo de tu Fase Final, puedes jugar un Ancestral de coste 3 o menos de tu Cementerio sin pagar su coste.",Belial,Ancestral,Aliado
+2,Cuentos de Ultratumba,Real,2,"Oscuridad. Furia.Cuando ataques con dos o más Aliados, si sólo controlas Aliados Oscuridad o Bestia, Destruye el Aliado oponente de coste 2 o menos.Puedes Desterrar este Aliado de tu Cementerio para poner un contador de Alimento en el Aliado objetivo.",Gnoph-Keh,Bestia,Aliado
+2,Cuentos de Ultratumba,Real,3,"Oscuridad.Cuando entra en juego, si sólo controlas Aliados Oscuridad y/o Sombra, puedes Descartar una carta para jugar el Talismán objetivo de la Zona de Destierro oponente sin pagar su coste.",Montesor el Bufón,Sombra,Aliado
+2,Cuentos de Ultratumba,Real,2,"Oscuridad. Indestructible.Si sólo controlas Aliados Oscuridad y/o Ancestrales, puedes Desterrar una carta de tu mano para buscar en tu Castillo una carta Oscuridad o un Ancestral y ponerlo en tu mano. Luego, el oponente Descarta una carta.",Lenore,Ancestral,Aliado
+1,Cuentos de Ultratumba,Real,2,"Única. Oscuridad.Cuando entra en juego, si sólo controlas Aliados Oscuridad y/o Sombra, busca una carta en el Castillo oponente y Destiérrala. Mientras este Aliado esté en juego, puedes jugar la carta Desterrada.",Sava el Vampiro,Sombra,Aliado
+1,Cuentos de Ultratumba,Real,1,"Oscuridad. Exhumar.Hasta dos veces por turno, cuando otro Zombi que controles sea Destruido, puedes Subir ese Aliado a tu mano.Puedes Desterrar dos Zombi que controles, de tu Cementerio y/o de tu mano para cancelar una habilidad o para Anular una carta.",Zombi del Bayou,Sombra,Aliado
+2,Cuentos de Ultratumba,Real,3,"Oscuridad.Si jugaste una carta del Destierro oponente este turno, puedes jugarlo sin pagar su coste.Cuando entra en juego, mira la mano del oponente y Destierra un Aliado de ahí o Baraja el Aliado oponente objetivo.",Fantasma de la Ópera,Sombra,Aliado
+1,Cuentos de Ultratumba,Real,2,"Oscuridad. Imbloqueable.En tu Vigilia, si sólo controlas Aliados Oscuridad y/o Sacerdotes, elige un tipo de carta al azar. Hasta tu próximo turno, no se pueden jugar cartas de ese tipo.",Monje Loco,Sacerdote,Aliado
+2,Cuentos de Ultratumba,Real,3,"Oscuridad. Furia.Al comienzo de tu Vigilia, si está en tu Cementerio y recibiste daño el turno anterior, puedes jugarlo sin pagar su coste.Cuando entra en juego, si controlas otros Aliados Oscuridad y/o Sombra, Destruye o Destierra el Aliado objetivo de coste 2 o menos.",Momia Vengadora,Sombra,Aliado
+2,Cuentos de Ultratumba,Ultra Real,4,"Oscuridad. Exhumar.Cuando entra en juego, Sube hasta dos cartas Oscuridad objetivo de tu Cementerio a tu mano.Puedes Descartar una carta Oscuridad para buscar en un Castillo, tres cartas, con distinto nombre y Desterrarlas.",Tres Brujas,Sombra,Aliado
+3,Cuentos de Ultratumba,Ultra Real,3,"Oscuridad.Cuando entre o salga del juego, si sólo controlas Aliados de coste 3, Oscuridad y/o Ancestrales, gana el control de hasta una carta objetivo de cada tipo.Puedes Destruir otro Aliado que controles para cancelar la habilidad objetivo.",Lilit,Ancestral,Aliado
+3,Cuentos de Ultratumba,Ultra Real,5,"Errante. Oscuridad.Cuando entra en juego, busca en tu Castillo un Aliado Oscuridad y juégalo sin pagar su coste.Si sólo controlas Aliados Oscuridad, puedes elegir Destruir un Aliado objetivo, buscar dos cartas en un Castillo y Desterrarlas o Robar dos cartas.",Gargantúa,Bestia,Aliado
+3,Cuentos de Ultratumba,Ultra Real,4,"Oscuridad. Inmunidad - Aliados Oponentes.En tu Vigilia, el oponente Destierra las primeras cinco cartas de su Castillo.Al comienzo de tu Fase Final, si sólo controlas Aliados Oscuridad y/o Sombra, puedes Destruir una carta que no sea Oscuridad ni Oro y Robar dos cartas.",Gente Sombra,Sombra,Aliado
+2,Cuentos de Ultratumba,Ultra Real,4,"Oscuridad. Furia.Cuando entra en juego, busca en tu Castillo un Aliado Oscuridad o Bestia, que no sea Licántropo, de coste 2 o menos y juégalo sin pagar su coste.Cuando un Aliado Oscuridad haga daño de combate, puedes buscar una carta en un Castillo y Desterrarla.",Licántropo,Bestia,Aliado
+2,Furia Extensión,Real,2,"Una vez por turno, puedes pagar 2 Oros para que tu oponente Bote 2 cartas.",Darío III,Guerrero,Aliado
+2,Furia Extensión,Real,2,"Furia.Cuando este Aliado entra en juego, puedes Desterrar un Arma en juego.",Fenrir,Bestia,Aliado
+2,Furia Extensión,Real,3,"Mientras tengas 2 o más Tótems en juego, este Aliado es Indestructible .",Héctor,Guerrero,Aliado
+4,Furia Extensión,Real,4,Puedes pagar 1 Oro y Destruir este Aliado para que tus Aliados Raza Bestia ganen 2 a la fuerza hasta la Fase Final.,Quimera,Bestia,Aliado
+3,Furia Extensión,Real,1,Este Aliado gana 1 a la Fuerza por cada Aliado de Raza Bestia que tengas en juego.,Dragón de Gales,Bestia,Aliado
+5,Furia Extensión,Real,3,"Cuando este Aliado entra en juego, puedes buscar un Tótem en tu Mazo Castillo y jugarlo sin pagar su coste.",Belerofonte,Guerrero,Aliado
+3,Furia Extensión,Real,3,"Cuando este Aliado entra en juego puedes mostrar la primera carta de tu Mazo Castillo, si es un Aliado de raza Eterno, puedes jugarlo sin pagar su coste de lo contrario pon esa carta en la parte superior de tu Mazo Castillo.",Afrodita,Eterno,Aliado
+4,Furia Extensión,Real,2,"Cuando este Aliado entra en juego, si todos tus demás Aliados son de Raza Eterno, puedes Barajar un Aliado oponente en juego.",Horus,Eterno,Aliado
+3,Furia Extensión,Real,3,"Cuando este Aliado entra en juego, puedes Destruir un Aliado oponente de coste 1 o menos.",Hades,Eterno,Aliado
+3,Furia Extensión,Real,3,"Mientras todos tus demás Aliados sean de Raza Caballero, este Aliado es Imbloqueable.",Jaques de Molay,Caballero,Aliado
+4,Furia Extensión,Real,2,"Cuando este Aliado entra en juego, si todos tus demás Aliados son de Raza Caballero, puedes Destruir un Aliado oponente.",Morgana le Fay,Caballero,Aliado
+2,Furia Extensión,Real,2,"En tu Fase de Vigilia, una vez por turno, puedes pagar 1 Oro para que un Aliado de Raza Caballero sea Imbloqueable hasta la Fase Final.",Merlín,Caballero,Aliado
+5,Furia Extensión,Ultra Real,4,"Única. Cuando este Aliado entra en juego, puedes Barajar otro de tus Aliados en juego para barajar 2 Aliados oponentes en juego. En tu Fase de Vigilia, una vez por turno, puedes Robar una carta.",Ra,Eterno,Aliado
+5,Furia Extensión,Ultra Real,4,"Única.En tu Fase de Vigilia, una vez por turno, puedes mostrar la primera carta de tu Mazo Castillo, si es un Aliado puedes jugarlo sin pagar su coste y tu oponente Bota tantas cartas como coste tenga el Aliado jugado, de lo contrario, Destierra esa Carta.",Alejandro Magno,Guerrero,Aliado
+4,Rebelión,Real,4,"Cuando este Aliado salga del juego, puedes Destruir un Aliado oponente.",Lahamu,Bestia,Aliado
+3,Rebelión,Real,3,"Cuando este Aliado entra en juego, puedes mostrar las primeras 5 cartas de tu Mazo Castillo, pon todos los Aliados de Raza Bestia en tu mano y el resto en tu Cementerio.",Kur,Bestia,Aliado
+1,Rebelión,Real,2,"Cuando este Aliado sea declarado atacante, si todos tus Aliados en juego son de Raza Bestia, no se pueden jugar Talismánes este turno.",Pantera,Bestia,Aliado
+2,Rebelión,Real,2,"Cuando este Aliado entra en juego, tu oponente Bota una carta por cada Tótem en tu Cementerio.",Guerrero de Nibiru,Guerrero,Aliado
+2,Rebelión,Real,2,"Una vez por turno, puedes Desterrar un Arma de tu Cementerio para que tu oponente Bote 3 cartas.",Eannatum de Lagash,Guerrero,Aliado
+3,Rebelión,Real,3,"Furia. En tu Fase Final, Destruye este Aliado. Cuando un Aliado de Raza Bestia entre en juego bajo tu control, puedes jugar este Aliado desde tu Cementerio sin pagar su coste.",Lahmu,Bestia,Aliado
+2,Rebelión,Real,3,"Mientras este Aliado esté en juego, tus Aliados de Raza Bestia no pueden ser bloqueados por Aliados de coste 3 o mas.",Sierpe Sagrada,Bestia,Aliado
+5,Rebelión,Real,3,"Indestructible. Mientras este Aliado esté en juego, tus demas Aliados de Raza Sacerdote ganan 2 a la Fuerza.",Shatammu,Sacerdote,Aliado
+2,Rebelión,Real,3,"En la Fase Final, si este Aliado hizo daño al Mazo Castillo Oponente, puedes Desterrar un Aliado de Raza Bestia en juego o de un Cementerio.",Inkishush,Guerrero,Aliado
+2,Rebelión,Real,2,"Cuando este Aliado entra en juego, puedes elegir hasta 2 Aliados de Raza Guerrero de coste 1 de tu Cementerio y ponerlos en tu mano.",Kug-Bau,Guerrero,Aliado
+2,Rebelión,Real,2,"En Guerra de Talismanes, una vez por turno, puedes Desterrar 2 cartas de tu Cementerio para que otro Aliado de Raza Sacerdote gane 3 a la Fuerza hasta la Fase Final.",Exorcista,Sacerdote,Aliado
+3,Rebelión,Real,3,"Cuando este Aliado salga del juego, puedes buscar un Aliado de Raza Sacerdote de coste 2 o menos en tu Mazo Castillo y ponerlo en tu mano.",Sanga,Sacerdote,Aliado
+2,Rebelión,Real,2,"Indestructible. Cuando este Aliado entra en juego, muestra las primeras 6 cartas de tu Mazo Castillo, puedes jugar un Aliado de Raza Guerrero de coste 2 o menos sin pagar su coste y Barajar el resto.",Ur Nammu,Guerrero,Aliado
+2,Rebelión,Real,2,"Cuando este Aliado entra en juego, tu oponente Bota 2 cartas. Cuando este Aliado sea Destruido, puedes Robar 2 cartas.",Rimush,Guerrero,Aliado
+2,Rebelión,Real,1,"Cuando este Aliado entra en juego, puedes elegir hasta 2 Oros de tu Cementerio y Barajarlos en tu Mazo Castillo.En tu Fase de Vigilia, puedes jugar este Aliado desde tu Cementerio pagando su coste.",Maestro de Sumer,Sacerdote,Aliado
+4,Rebelión,Real,2,"Mientras este Aliado esté en juego, tus demás Aliados de Raza Sacerdote ganan 1 a la Fuerza por cada carta en tu Zona de Destierro.",Dub-Sar,Sacerdote,Aliado
+3,Rebelión,Real,2,"En tu Fase de Vigilia, una vez por turno, puedes pagar 2 Oros para elegir un Oro sin habilidad en tu Cementerio y ponerlo en tu Reserva de Oro.",Berosso,Sacerdote,Aliado
+2,Rebelión,Real,2,"En tu Fase de Vigilia, una vez por turno, puedes pagar 1 Oro para buscar un Aliado de Raza Ancestral en tu Mazo Castillo y ponerlo en tu mano.",Papsukkal,Ancestral,Aliado
+2,Rebelión,Real,1,"En tu Fase de Vigilia, una vez por turno, puedes pagar 3 Oros para que tu oponente Descarta una carta al azar de su mano.",Gibil,Ancestral,Aliado
+2,Rebelión,Real,2,"Cuando este Aliado salga del juego, tu oponente Descarta una carta al azar de su mano.",Ishkur,Ancestral,Aliado
+2,Rebelión,Real,3,"Mientras este Aliado esté en juego, no se pueden jugar cartas de los Cementerios.",Anu,Ancestral,Aliado
+3,Rebelión,Mega Real,4,"En tu Fase de Vigilia, una vez por turno, puedes jugar un Aliado de Raza Bestia de tu Cementerio pagando su coste.",Apsu,Bestia,Aliado
+1,Rebelión,Mega Real,1,"En tu Fase de Vigilia, una vez por turno, puedes Descartar una carta de tu mano para buscar un Arma en tu Mazo Castillo y ponerla en tu mano.",Samsu-Llina,Guerrero,Aliado
+3,Rebelión,Mega Real,1,"Cuando este Aliado entra en juego, puedes elegir una carta de tu Cementerio y ponerla en tu mano.",La-Mach,Sacerdote,Aliado
+4,Rebelión,Ultra Real,4,"ÚnicaCuando este Aliado entra en juego, puedes jugar hasta 2 Aliados de Raza Bestia de coste 2 o menos de tu Cementerio sin pagar su coste.Cuando este Aliado salga del juego, puedes Robar 2 cartas.",Anzu,Bestia,Aliado
+3,Rebelión,Real,2,"Cuando este Aliado entra en juego, puedes Barajar un Aliado oponente en juego de Fuerza 3 o menos.",Nusku,Ancestral,Aliado
+3,Rebelión,Mega Real,2,"IndestructibleCuando este Aliado sea declarado bloqueador, tu oponente Descarta una carta de su mano.",Ninurta,Ancestral,Aliado
+3,Rebelión,Real,3,"En la Fase Final, si este Aliado hizo daño al Mazo Castillo Oponente, puedes buscar un Oro sin habilidad en tu Mazo Castillo y ponerlo en tu Zona de Oro Pagado.",Zababa,Ancestral,Aliado
+4,Rebelión,Ultra Real,3,"ÚnicaCuando este Aliado entra en juego, tu oponente Bota una carta por cada Aliado de Raza Guerrero que tengas en juego.Mientras este Aliado esté en juego, tus demás Aliados de Raza Guerrero ganan 1 a la Fuerza y son Imbloqueables.",Sargón el Grande,Guerrero,Aliado
+2,Furia Extensión,Vasallo,2,"Cuando este Aliado haga daño al Mazo Castillo oponente, puedes elegir una carta de tu Cementerio y Barajarla en tu Mazo Castillo.",Infantería Egipcia,Guerrero,Aliado
+4,Rebelión,Ultra Real,4,"ÚnicaCuando este Aliado entra en juego, tu oponente Descarta una carta de su mano.Una vez por turno, puedes elegir un Aliado de Raza Ancestral de tu Cementerio y ponerlo en tu mano.Cuando este Aliado salga del juego, tu oponente Descarta 2 cartas al azar de su mano.",Nammu,Ancestral,Aliado
+3,Furia Extensión,Vasallo,3,"Mientras este Aliado esté en juego, te cuesta 1 Oro menos jugar la carta .",Hefestión,Guerrero,Aliado
+4,Rebelión,Ultra Real,2,"ÚnicaLos Aliados que no sean de Raza Sacerdote, no pueden ser declarados atacantes.Una vez por turno, puedes elegir una carta en tu Cementerio y Barajarla en tu Mazo Castillo.",Ziusudra,Sacerdote,Aliado
+4,Furia Extensión,Vasallo,2,"Cuando este Aliado entra en juego, puedes buscar una copia de esta carta en tu Cementerio y jugarla sin pagar su coste.",Ammit,Bestia,Aliado
+1,Furia Extensión,Vasallo,2,Este Aliado sólo puede ser declarado Atacante si todos tus demas Aliados son de Raza Bestia.,Wadjet,Bestia,Aliado
+2,Furia Extensión,Vasallo,2,"Cuando este Aliado entra en juego, puedes buscar la carta """" en tu Mazo Castillo, mostrarla a tu oponente y ponerla en tu mano.",Pitón,Bestia,Aliado
+2,Furia Extensión,Vasallo,2,"En tu Fase de Vigilia, una vez por turno, puedes Destruir uno de tus Aliados para que este Aliado sea Indestructible hasta la Fase Final.",Los Inmortales,Guerrero,Aliado
+2,Furia Extensión,Vasallo,2,"Cuando este Aliado entra en juego, si uno de tus Aliados porta un Arma, Roba una carta.",Odoacro,Guerrero,Aliado
+1,Furia Extensión,Vasallo,1,"Si este Aliado es declarado Bloqueador, gana 2 a la Fuerza hasta la Fase Final.",Fobos,Eterno,Aliado
+3,Furia Extensión,Vasallo,4,"Para que este Aliado pueda ser declarado Atacante o Bloqueador, debes Destruir uno de tus Aliados.",Deimos,Eterno,Aliado
+4,Furia Extensión,Vasallo,2,"Cuando este Aliado entra en juego, puedes buscar una carta de Talismán en tu Mazo Castillo, mostrarla a tu oponente y ponerla en tu mano.",Hodur,Eterno,Aliado
+2,Furia Extensión,Vasallo,1,"En tu Fase de Vigilia, puedes Destruir este Aliado para Destruir un Aliado de Fuerza 1.",Vidar,Eterno,Aliado
+1,Furia Extensión,Vasallo,1,Furia.,Tancredo,Caballero,Aliado
+2,Furia Extensión,Vasallo,3,Este Aliado no puede Bloquear.,Felipe IV,Caballero,Aliado
+1,Furia Extensión,Vasallo,2,Puedes Destruir este Aliado para Robar una carta.,Clodweg,Caballero,Aliado
+3,Furia Extensión,Cortesano,2,"Mientras este Aliado esté en juego, tus Aliados Imbloqueables ganan 1 a la Fuerza.",Sleipnir,Bestia,Aliado
+4,Furia Extensión,Cortesano,4,Puedes Destruir 2 de tus Aliados de Raza Bestia para jugar este Aliado desde tu mano sin pagar su coste.,Garm,Bestia,Aliado
+4,Furia Extensión,Cortesano,3,"Cuando este Aliado entra en juego, todos tus Aliados de Raza Bestia son Imbloqueables hasta la Fase Final.",Bucéfalo,Bestia,Aliado
+2,Furia Extensión,Cortesano,3,"Una vez por turno, puedes Destruir uno de tus Aliados para que este Aliado sea Imbloqueable hasta la Fase Final.",Pegaso,Bestia,Aliado
+2,Furia Extensión,Cortesano,2,Cuando este Aliado entra en juego cada jugador Bota 2 cartas.,Necao II,Guerrero,Aliado
+1,Furia Extensión,Cortesano,2,"Si este Aliado esta en tu Cementerio, puedes pagar 2 Oros para ponerlo en tu mano.",Genserico,Guerrero,Aliado
+1,Furia Extensión,Cortesano,1,"Cuando este Aliado entra en juego, cada jugador Bota una carta.",Gundahario,Guerrero,Aliado
+6,Furia Extensión,Cortesano,3,"Cuando este Aliado entra en juego, puedes jugar un Aliado de Raza Eterno de coste 3 o menos de tu Cementerio sin pagar su coste.",Osiris,Eterno,Aliado
+4,Furia Extensión,Cortesano,2,Puedes Desterrar este Aliado para Anular un Aliado oponente (esta habilidad puede ser utilizada cuando tu oponente juegue un Aliado).,Balder,Eterno,Aliado
+2,Furia Extensión,Cortesano,2,"En Guerra de Talismanes, puedes Destruir este Aliado para devolver un Aliado oponente a su Línea de Defensa. ()",Sobek,Eterno,Aliado
+3,Furia Extensión,Cortesano,2,"Una vez por turno, este Aliado puede duplicar su Fuerza, si lo hace, Destrúyelo en la Fase Final.",Alarico II,Caballero,Aliado
+2,Furia Extensión,Cortesano,2,"Cuando este Aliado salga del juego, puedes Robar una carta.",Valiant,Caballero,Aliado
+5,Furia Extensión,Cortesano,4,Furia.,Siagrio,Caballero,Aliado
+2,Rebelión,Cortesano,2,Furia. Este Aliado debe ser declarado atacante todos los turnos.,Cría de Grifo,Bestia,Aliado
+3,Rebelión,Cortesano,4,"Si este Aliado esta en tu Cementerio, puedes Destruir uno de tus Aliados de Raza Bestia para ponerlo en tu mano. Mientras este Aliado esté en juego, tus demás Aliados de Raza Bestia tienen Furia.",Ciervos de Ansu,Bestia,Aliado
+2,Rebelión,Cortesano,1,"En tu Fase de Vigilia, una vez por turno, puedes Desterrar un Aliado de tu Cementerio para que un Aliado de Raza Bestia gane 2 a la Fuerza hasta la Fase Final.",Igigi,Bestia,Aliado
+4,Rebelión,Cortesano,4,"Mientras tengas 3 o más Aliados de Raza Bestia en juego, este Aliado gana Furia. Mientras tengas 5 o más Aliados de Raza Bestia en juego, este Aliado es indestructible.",Asag,Bestia,Aliado
+1,Rebelión,Cortesano,1,"Cuando este Aliado sea declarado atacante, cada jugador Bota 2 cartas.",Edimmu,Bestia,Aliado
+1,Rebelión,Cortesano,2,"FuriaEn la Fase Final, si este Aliado está en juego, súbelo a la mano de su dueño.",Dragón de Marduk,Bestia,Aliado
+3,Rebelión,Cortesano,3,"En tu Fase de Vigilia, una vez por turno, puedes Desterrar un Tótem de tu Cementerio para que tu oponente Bote 2 cartas.",Shulga,Guerrero,Aliado
+2,Rebelión,Cortesano,2,"En tu Fase de Vigilia, una vez por turno, puedes Descartar un Tótem de tu mano para Robar una carta",Peli,Guerrero,Aliado
+2,Rebelión,Cortesano,2,"En tu Fase de Vigilia, una vez por turno, puedes buscar un Arma en tu Mazo Castillo y ponerla en tu Cementerio",Rin-Sim II,Guerrero,Aliado
+2,Rebelión,Cortesano,1,"En Guerra de Talismanes, una vez por turno, tu oponente Bota 1 carta.",Tizqar,Guerrero,Aliado
+3,Rebelión,Cortesano,2,"En tu Fase de Vigilia, una vez por turno, puedes Desterrar un Arma de tu Cementerio para elegir un Arma en tu Cementerio y ponerla en tu mano.",Mebaragesi,Guerrero,Aliado
+2,Rebelión,Cortesano,2,"Cuando este Aliado sea Destruido, puedes Barajarlo en tu Mazo Castillo",Nubanda,Sacerdote,Aliado
+2,Rebelión,Cortesano,1,"Una vez por turno, cuando un Aliado de Raza Sacerdote sea Desterrado de tu Cementerio, puedes robar una carta.",Naditu,Sacerdote,Aliado
+4,Rebelión,Cortesano,3,"En tu Fase Final, si un Aliado de Raza Sacerdote hizo daño al Mazo Castillo Oponente, puedes Robar una carta.",Astrónomo,Sacerdote,Aliado
+3,Rebelión,Cortesano,2,"Mientras este Aliado esté en juego, tus demás Aliados Imbloqueables ganan 1 a la Fuerza.",Matushal,Sacerdote,Aliado
+3,Rebelión,Cortesano,3,"En tu Fase de Vigilia, una vez por turno, puedes Desterrar un Talismán de tu Cementerio para Robar una carta.",Hazamu,Sacerdote,Aliado
+2,Rebelión,Cortesano,3,"Cuando este Aliado sea declarado Bloqueador, puedes elegir una carta de tu Cementerio y barajarla en tu Mazo Castillo.",Músico del Templo,Sacerdote,Aliado
+2,Rebelión,Cortesano,2,Furia.Este Aliado no puede ser bloqueado por Aliados de coste 1 o menos.,Baal,Ancestral,Aliado
+4,Rebelión,Cortesano,3,"Cuando este Aliado entra en juego, tus Aliados de Raza Ancestral son Imbloqueables hasta la Fase Final.",Mot,Ancestral,Aliado
+4,Rebelión,Cortesano,2,"Este Aliado no puede ser declarado bloqueador. Cuando este Aliado sea Destruido, cada jugador Descarta su mano y Roba 4 cartas.",Anshar,Ancestral,Aliado
+3,Rebelión,Cortesano,3,"Mientras este Aliado esté en juego, tu oponente no puede Desterrar cartas de tu cementerio.",Dumuzi,Ancestral,Aliado
+2,Rebelión,Cortesano,2,"Una vez por turno, puedes elegir uno de tus Aliados de Raza Ancestral para que sea Indestructible hasta la Fase Final.",Nidaba,Ancestral,Aliado
+1,Rebelión,Cortesano,3,"En Guerra de Talismanes, una vez por turno, tu oponente puede Descartar una carta de su mano para que este Aliado no haga daño este turno.",Asalluhi,Ancestral,Aliado
+2,Rebelión,Vasallo,1,Indestructible.,Lugalirra,Ancestral,Aliado
+1,Rebelión,Milenaria,2,"Cuando este Aliado sea declarado atacante, si todos tus Aliados en juego son de Raza Bestia, no se pueden jugar Talismánes este turno.",Pantera,Bestia,Aliado
+2,Rebelión,Milenaria,2,"Indestructible. Cuando este Aliado entra en juego, muestra las primeras 6 cartas de tu Mazo Castillo, puedes jugar un Aliado de Raza Guerrero de coste 2 o menos sin pagar su coste y Barajar el resto.",Ur Nammu,Guerrero,Aliado
+1,Rebelión,Vasallo,2,"En la Fase Final, si este Aliado hizo daño al Mazo Castillo oponente, puedes buscar una copia de este Aliado en tu Mazo Castillo y ponerlo en tu mano.",Zorro Astuto,Bestia,Aliado
+2,Rebelión,Vasallo,2,"Cuando este Aliado entra en juego, puedes Barajar un Tótem oponente en juego.",Ishkur Bestial,Bestia,Aliado
+2,Rebelión,Vasallo,3,"Furia. En Guerra de Talismanes, tu oponente puede pagar 2 Oros para Destruir este Aliado.",Búho Nocturno,Bestia,Aliado
+2,Rebelión,Vasallo,1,"Imbloqueable. En tu Fase de Vigilia, puedes jugar este Aliado desde tu Cementerio pagando su coste.",Canes de Ninkarrak,Bestia,Aliado
+3,Rebelión,Vasallo,4,"Furia.Cuando este Aliado entra en juego, Bota 3 cartas de tu Mazo Castillo.",León de Ishtar,Bestia,Aliado
+2,Rebelión,Vasallo,4,Este Aliado pierde 1 a la Fuerza por cada Aliado oponente en juego,Leona Herida,Bestia,Aliado
+3,Rebelión,Vasallo,1,"Cuando este Aliado entra en juego, tu oponente Bota 2 cartas. Si este Aliado esta en tu Cementerio, puedes pagar 1 Oro para ponerlo en tu Mano.",Areneros,Guerrero,Aliado
+1,Rebelión,Vasallo,2,"Cuando este Aliado entra en juego, tu oponente Bota una carta.",Campeón del Pueblo,Guerrero,Aliado
+4,Rebelión,Vasallo,2,"Cuando este Aliado sea Destruido, puedes Robar 3 cartas.",Sharkalisharri,Guerrero,Aliado
+3,Rebelión,Vasallo,3,Puedes destruir este Aliado para que tu oponente Bote 2 cartas.,Soldado Amorreo,Guerrero,Aliado
+3,Rebelión,Vasallo,2,"Cuando este Aliado entra en juego, puedes Destruir un Arma oponente.",Manishutusu,Guerrero,Aliado
+1,Rebelión,Vasallo,1,"Una vez por turno, puedes Desterrar un Arma de tu Cementerio para que este Aliado gane 2 a la Fuerza.",Élite Celestial,Guerrero,Aliado
+4,Rebelión,Vasallo,1,Este Aliado gana 1 a la Fuerza por cada Aliado de Raza Sacerdote en tu Zona de Destierro.,Sesgallu,Sacerdote,Aliado
+3,Rebelión,Vasallo,1,"Cuando este Aliado entra en juego, tus Aliados son Imbloqueables hasta la Fase Final.",Kalü,Sacerdote,Aliado
+4,Rebelión,Vasallo,3,"Cuando este Aliado entra en juego, tus Aliados Imbloqueables ganan 2 a la Fuerza hasta la Fase Final.",Hassuk,Sacerdote,Aliado
+2,Rebelión,Vasallo,2,"Cuando este Aliado sea Destruido, puedes elegir hasta 2 cartas de tu Cementerio y Barajarlas en tu Mazo Castillo.",Harimtu,Sacerdote,Aliado
+1,Rebelión,Vasallo,1,"Si este Aliado esta en tu Cementerio, puedes Desterrarlo para elegir una carta en el Cementerio oponente y Desterrarla.",Cultista Sumerio,Sacerdote,Aliado
+2,Rebelión,Vasallo,1,Indesterrable.,Nanshe,Ancestral,Aliado
+4,Rebelión,Vasallo,4,"Cuando este Aliado sea Destruido, puedes buscar una carta en tu Mazo Castillo y ponerla en tu mano.",Ninkarrak,Ancestral,Aliado
+3,Rebelión,Vasallo,3,"Cuando este Aliado entra en juego, cada jugador Destruye uno de sus Aliados.",Haya,Ancestral,Aliado
+4,Rebelión,Vasallo,3,"En la Fase Final, si jugaste un Aliado de Raza Ancestral de tu Cementerio, tu oponente Descarta una carta al azar de su mano.",Teshub,Ancestral,Aliado
+3,Rebelión,Vasallo,2,"En tu Fase Final, si este Aliado esta en tu Cementerio, puedes destruir uno de tus Aliados de Raza Sacerdote para jugar este Aliado sin pagar su coste.",Meslamtaea,Ancestral,Aliado
+2,Álbum Guía (2015),Real,1,"Mientras este Aliado esté en juego, tus Aliados de Raza Ancestral de coste 3 o más ganan 2 a la Fuerza.",Ishtar,Ancestral,Aliado
+5,Álbum Guía (2015),Ultra Real,5,"ÚnicaImbloqueableUna vez en tu turno, puedes pagar un Oro para Destruir un Aliado.Mientras este Aliado esté en juego, tus demás Aliados de Raza Ancestral ganan 2 a la Fuerza.",Enki,Ancestral,Aliado
+2,Álbum Guía (2015),Vasallo,2,"Cuando este Aliado entra en juego, puedes Robar 1 carta.",Vigía,Guerrero,Aliado
+1,Álbum Guía (2015),Vasallo,1,"En tu Fase de Vigilia, puedes jugar este Aliado desde tu Cementerio pagando su coste.",Hadas,Eterno,Aliado
+2,Álbum Guía (2015),Vasallo,2,"Furia.Si este Aliado ataca junto a otro ""Caballero Templario"", gana 1 a la fuerza hasta la Fase Final.",Caballero Templario,Caballero,Aliado
+2,Álbum Guía (2015),Vasallo,2,"Si es el único Aliado declarado Atacante, gana 2 a la Fuerza hasta la Fase Final.",Amosis I,Guerrero,Aliado
+3,Álbum Guía (2015),Cortesano,2,"Cuando este Aliado entra en juego, puedes jugar un Aliado de raza Eterno de coste 2 o menos desde tu Cementerio sin pagar su coste.",Hera,Eterno,Aliado
+2,Álbum Guía (2015),Cortesano,3,"Una vez por turno, puedes Destruir uno de tus Aliados para que este Aliado sea Imbloqueable hasta la Fase Final.",Pegaso,Bestia,Aliado
+4,Álbum Guía (2015),Cortesano,2,Puedes Desterrar este Aliado para Anular un Aliado oponente (esta habilidad puede ser utilizada cuando tu oponente juegue un Aliado).,Balder,Eterno,Aliado
+5,Colecciones Raciales Primera Era,Promocional,4,"Cuando entra en juego, puedes barajar 2 Aliados oponentes en juego. Luego, descarta 2 cartas de tu Mano.",Beerwolf,Licántropo,Aliado
+1,Álbum Guía (2015),Cortesano,2,"Una vez por turno, puedes Descartar 2 cartas de tu mano para que este Aliado gane 2 a la Fuerza hasta la Fase Final.",Erick Hacha Sangrienta,Guerrero,Aliado
+2,Colecciones Raciales Primera Era,Promocional,2,"Cuando entra en juego, puedes destruir un Dios que controles para robar una carta.",Vali,Dios,Aliado
+1,Álbum Guía (2015),Cortesano,3,"Furia.En la Fase Final, Destruye este Aliado.",Dragón de Arena,Bestia,Aliado
+3,Colecciones Raciales Primera Era,Promocional,3,"Puede atacar cuando entra en juego.Cuando ataca, puedes elegir un Aliado oponente para que lo bloquee.",Lord Ruthven,Vampiro,Aliado
+3,Álbum Guía (2015),Real,2,"Cuando este Aliado entra en juego, puedes robar 2 cartas de tu Mazo Castillo.",Tristán,Caballero,Aliado
+2,Colecciones Raciales 2021,Promocional,2,"Trascender.Cuando entra en juego como Aliado, tu oponente Bota una carta por cada Tótem que controles.Puedes Destruir un Eterno que controles para Anular una carta de coste 1 o menos.",Santos Poderes,Eterno,Aliado
+3,Álbum Guía (2015),Real,3,"Cuando este Aliado entra en juego, tu oponente Bota 3 cartas de su Mazo Castillo.",Ramsés II,Guerrero,Aliado
+2,Álbum Guía (2015),Real,2,"Mientras este Aliado esté en juego, tus demás aliados de Raza Bestia tienen Furia. (Pueden atacar cuando entran al juego)",Cíclope,Bestia,Aliado
+2,Álbum Guía (2015),Real,3,"Puedes destruir este Aliado, si lo haces, un Aliado oponente tiene 0 a la Fuerza hasta la Fase Final.",Cancerbero,Bestia,Aliado
+3,Colecciones Raciales Primera Era,Promocional,1,"Cuando entra en juego, puedes barajar un Chamán o Tótem de tu Cementerio para robar 1 carta por cada Tótem que tengas en juego.",Curandero,Chamán,Aliado
+6,Antología,Promocional,4,"Errante.Cuando Thor entra en juego, destruye 2 Aliados oponentes.",Thor,Desafiante,Aliado
+2,Colecciones Raciales 2021,Promocional,4,"Errante. Imbloqueable.Cuando entra en juego o haga daño de combate, puedes ganar el control del Aliado objetivo y reemplazar su Raza por Caballero.Los demás Caballeros que controles ganan 1 de Fuerza e Imbloqueable.",William el Conquistador,Caballero,Aliado
+4,Colecciones Raciales Primera Era,Promocional,3,"Cuando entra en juego, busca un Bárbaro de fuerza 2 o menos en tu Castillo y ponlo en juego sin pagar su coste.",Bjorn Ragnarsson,Bárbaro,Aliado
+8,Antología,Promocional,8,"Furia. Imbloqueable.No puede cambiar de controlador.Cuando Dragón Medieval entra en juego, destierra un Aliado en juego.",Dragón Medieval,Dragón,Aliado
+4,Antología,Promocional,0,"Única. Cuando Hodur entra en juego, Baraja un aliado oponente. Hodur tiene la fuerza y las habilidades de ese Aliado. El Aliado barajado y todas sus copias no pueden ser jugados mientras Hodur esté en juego.",Hodur,Desafiante,Aliado
+4,Q-Vil,Real,4,Errante. Relámpago.,Zeus de Olimpia,Eterno,Aliado
+4,Antología,Promocional,0,"Única.En tu fase de Vigilia, puedes destruir a Anubis para jugar una carta de Aliado desde tu Cementerio sin pagar su coste.",Anubis,Eterno,Aliado
+4,Q-Vil,Real,4,"Errante. Lealtad.Los aliados que controles tiene Inmunidad: Talismanes.Al comienzo de tu Fase Final, debes elegir un jugador para que robe una carta.",Arthur de Bretaña,Paladín,Aliado
+3,Antología (2005),Promocional,4,"Cada vez que Kaín sea declarado atacante, todos los aliados declarados atacantes ganan 1 a la fuerza hasta la fase final.",Kaín,Sombra,Aliado
+3,Q-Vil,Real,3,Imbloqueable. Inmunidad.,Himitsu Hanzo,Héroe,Aliado
+2,Icarito 35 Años,Promocional,2,Cuando entra en juego toda tus Bestias ganan +1 de fuerza permanentemente.,Cuchivilu,Bestia,Aliado
+4,Q-Vil,Real,2,"Cuando entra en juego, puedes jugar una carta desde el Mazo Castillo de un jugador, sin pagar su coste. Si lo haces, bota X cartas, donde X es igual al Coste de esa carta más 4.",Los Tsachila,Sacerdote,Aliado
+4,Q-Vil,Real,4,Errante. Relámpago.,Thor Thunderchild,Desafiante,Aliado
+6,Q-Vil,Real,6,Furia. Imbloqueable.,Wyrm Medieval,Dragón,Aliado
+2,Icarito 35 Años,Promocional,2,"Cuando entra en juego, elige un tipo de Aliado y Basilisco no podrá ser bloqueado por éste.",Basilisco,Bestia,Aliado
+2,Q-Vil,Real,3,Relámpago. Furia. Embestida 3. Evasión 3.,Ruy Díaz de Vivar,Caballero,Aliado
+6,Q-Vil,Real,8,"No puede ser anulado. Cuando entra en juego, si fue jugada desde tu Mano, remueve todas las cartas del juego.",Hernán Cortés,Asesino,Aliado
+3,Q-Vil,Real,3,"Furia. Embestida 5.En tu Vigilia, una vez por turno, puedes buscar una carta que no sea Oro en el Mazo Castillo de un jugador y removerla del juego.",Sutekh,Tenebris,Aliado
+3,Q-Vil,Real,3,"Al comienzo de ti Vigilia, debes destruir la carta de mayor Coste en juego. Si hay dos o más cartas con el mismo Coste, elige una de ellas para que sea destruida. Cada vez que bloquee, gana 3 a la fuerza hasta la Fase Final.",Fergus Mac Roich,Defensor,Aliado
