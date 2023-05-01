@@ -13,18 +13,26 @@ crear virtualenv
 ### Instalación 🔧
 
 ```
-pip install scrapy
+pip install -r requirements.txt
 ```
+
+requirements.txt
+
+```
+scrapy
+sqlite3
+```
+
 ## Ejecutando Scraper ⚙️
 
 ```
-scrapy crawl myl -o datos.json
+scrapy crawl myl 
 ```
 Esto ejecuta el spider myl y retorna un archivo json con los datos solicitados.
 
-## Estructura de las cartas
+## Estructura de las cartas 🗃️
 
-Las cartas están estructuradas de la siguiente manera:
+_Las cartas están estructuradas de la siguiente manera:_
 
 - Nombre: el nombre de la carta, extraído de la página web.
 - Tipo: el tipo de la carta, que puede ser común, rara, épica o legendaria.
@@ -38,3 +46,16 @@ Las cartas están estructuradas de la siguiente manera:
 Puedes ver el código fuente del scraper para obtener más detalles sobre cómo se extraen estas propiedades de la página web.
 
 
+## Base de datos 🗄️
+El scraper utiliza una base de datos SQLite para almacenar las cartas obtenidas. Se ha creado una tabla "cartas" con las siguientes columnas:
+
+-nombre: el nombre de la carta.
+-tipo: el tipo de carta (aliado, acción, recurso, etc.).
+-fuerza: la fuerza de la carta (si aplica).
+-coste: el coste de la carta en oro (si aplica).
+-raza: la raza de la carta (si aplica).
+-frecuencia: la frecuencia de la carta (real, cortesano, oro, etc.).
+-edicion: la edición a la que pertenece la carta.
+-habilidad: la descripción de la habilidad de la carta.
+
+_Para evitar la inserción de cartas duplicadas, se ha establecido una restricción de clave única en las columnas "nombre" y "edicion"._

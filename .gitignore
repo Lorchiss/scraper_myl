@@ -1,3 +1,9 @@
+# Carpetas
 **/__pycache__
 /puppeteer-scraper
-*.log
+/scraper
+
+# Extensiones
+**.log
+**.json
+**.db

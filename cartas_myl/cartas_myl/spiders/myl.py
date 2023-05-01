@@ -50,6 +50,8 @@ class MylSpider(scrapy.Spider):
             raza = response.xpath('//tr[th/b/text() = "Raza"]/th[2]/text()').get()
             if raza is None or raza == '\n':
                 raza = response.xpath('//tr[th/b/text() = "Raza"]/th[2]/a/text()').get().strip()
+                if raza is None:
+                    raza = 'Sin Raza'
             else:
                 raza = raza.strip()
         else:

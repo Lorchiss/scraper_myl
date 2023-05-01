@@ -1,6 +1,5 @@
 import scrapy
 
-
 class Carta(scrapy.Item):
     nombre    = scrapy.Field() 
     tipo      = scrapy.Field()

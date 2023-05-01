@@ -63,9 +63,9 @@ DEPTH_LIMIT = 100
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    "cartas_myl.pipelines.CartasMylPipeline": 300,
-#}
+ITEM_PIPELINES = {
+   "cartas_myl.pipelines.CartasMylPipeline": 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
