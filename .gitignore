@@ -1,1 +1,3 @@
 **/__pycache__
+/puppeteer-scraper
+*.log
