@@ -15,7 +15,7 @@ sbuscar = buscar.stdout.decode().strip().split("/")
 os.chdir(os.path.join(directorio, sbuscar[-2]))
 
 # Se ejecuta el spider
-process = subprocess.Popen(['scrapy', 'crawl', 'myl'],
+process = subprocess.Popen(['scrapy', 'crawl', 'myl','-L','INFO'],
                            stdout=subprocess.PIPE,
                            stderr=subprocess.STDOUT,
                            text=True)

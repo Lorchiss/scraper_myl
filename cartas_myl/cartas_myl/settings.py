@@ -12,7 +12,6 @@ BOT_NAME = "cartas_myl"
 SPIDER_MODULES = ["cartas_myl.spiders"]
 NEWSPIDER_MODULE = "cartas_myl.spiders"
 
-
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "cartas_myl (+http://www.yourdomain.com)"
 
@@ -64,7 +63,8 @@ DEPTH_LIMIT = 100
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   "cartas_myl.pipelines.CartasMylPipeline": 300,
+    #"cartas_myl.pipelines.CartasMylPipeline": 300,
+    "cartas_myl.pipelines.BigQueryPipeline": 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
