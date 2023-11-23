@@ -47,15 +47,15 @@ class MylSpider(scrapy.Spider):
             tipo = tipo.strip()
             
         if tipo == "Aliado":
-            raza = response.xpath('//tr[th/b/text() = "Raza"]/th[2]/text()').get()
-            if raza is None or raza == '\n':
-                raza = response.xpath('//tr[th/b/text() = "Raza"]/th[2]/a/text()').get().strip()
-                if raza is None:
-                    raza = 'Sin Raza'
+            raza_raw = response.xpath('//tr[th/b/text() = "Raza"]/th[2]/text()').get()
+            if raza_raw is None or raza_raw.strip() == '':
+                raza_raw = response.xpath('//tr[th/b/text() = "Raza"]/th[2]/a/text()').get(default='').strip()
+                raza = raza_raw if raza_raw else 'Sin Raza'
             else:
-                raza = raza.strip()
+                raza = raza_raw.strip()
         else:
             raza = ""
+
 
         if edicion is None or edicion == '\n':
             edicion =  response.xpath('//tr[th/b/text() = "Edición"]/th[2]/a/text()').get(default='').strip()
